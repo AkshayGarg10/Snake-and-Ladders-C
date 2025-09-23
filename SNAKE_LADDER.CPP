@@ -254,24 +254,28 @@ void players(int value, int turn)
     p1x = 280;
     p1y = 257;
     score1 = 47;
+    xd1 = -xd1;
   }
   else if (p1x == 240 && p1y == 131)
   {
     p1x = 80;
     p1y = 326;
     score1 = 22;
+    xd1 = -xd1;
   }
   if (p2x == 80 && p2y == 32)
   {
     p2x = 280;
     p2y = 242;
     score2 = 47;
+    xd2 = -xd2;
   }
   else if (p2x == 240 && p2y == 116)
   {
     p2x = 80;
     p2y = 341;
     score2 = 22;
+    xd2 = -xd2;
   }
 
   // stairs logic
@@ -280,6 +284,7 @@ void players(int value, int turn)
     p1x = 240;
     p1y = 215;
     score1 = 55;
+    xd1 = -xd1;
   }
   else if (p1x == 360 && p1y == 215)
   {
@@ -292,6 +297,7 @@ void players(int value, int turn)
     p2x = 240;
     p2y = 200;
     score2 = 55;
+    xd1 = -xd1;
   }
   else if (p2x == 360 && p2y == 200)
   {
