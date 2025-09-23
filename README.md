@@ -42,5 +42,5 @@ Bring back nostalgic vibes of Turbo C++ with colors, dice rolls, snakes 🐍, la
 ![Players Positions](screenshots/Players.png) 
 ![Player Movement](screenshots/Movement.png)
 ![Snake Logic](screenshots/SnakeLogic.png) 
-![Stair Logic](screenshots/Stairs_logic.png) 
+![Stair Logic](screenshots/Stairs_Logic.png) 
 ![Victory Screen](screenshots/Win_screen.png)
