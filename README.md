@@ -38,9 +38,9 @@ Bring back nostalgic vibes of Turbo C++ with colors, dice rolls, snakes 🐍, la
 4. Use Enter to roll the dice.
 5. Press Esc to exit at any time
 
-![Start Screen](screenshots/start.png) 
+![Start Screen](screenshots/Start.png) 
 ![Players Positions](screenshots/Players.png) 
-![Player Movement](screenshots/movement.png)
+![Player Movement](screenshots/Movement.png)
 ![Snake Logic](screenshots/SnakeLogic.png) 
-![Stair Logic](screenshots/Stair_logic.png) 
+![Stair Logic](screenshots/Stairs_logic.png) 
 ![Victory Screen](screenshots/Win_screen.png)
